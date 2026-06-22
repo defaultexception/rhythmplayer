@@ -1,6 +1,12 @@
 #include "osuparser.h"
 
-#include <bits/stdc++.h>
+// #include <bits/stdc++.h>
+#include <unordered_map>
+#include <fstream>
+#include <functional>
+#include <variant>
+#include <string>
+#include <iostream>
 #include <ranges>
 
 // ParseMapType used for finding parser to use for section

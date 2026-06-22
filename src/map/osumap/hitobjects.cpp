@@ -335,10 +335,10 @@ int _getColumnNum(int x, int keyCount)
 
 int ManiaHitObject::getColumnNum()
 {
-    _getColumnNum(X, KeyCount);
+    return _getColumnNum(X, KeyCount);
 }
 
 int ManiaHoldNoteHitObject::getColumnNum()
 {
-    _getColumnNum(X, KeyCount);
+    return _getColumnNum(X, KeyCount);
 }

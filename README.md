@@ -4,6 +4,8 @@
 ```bash
 git clone https://github.com/chanceplus/rhythmplayer.git
 ```
+- Download CMake: https://cmake.org/download/
+- 
 
 ## Run
 
